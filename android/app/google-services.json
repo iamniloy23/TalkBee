@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031446206156",
+    "project_id": "talkbee-niloy",
+    "storage_bucket": "talkbee-niloy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031446206156:android:c164a490c38607e1e8d469",
+        "android_client_info": {
+          "package_name": "com.example.conversation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_dxmdh5buPbR14nvT1rLqcX0Le9tpUJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
